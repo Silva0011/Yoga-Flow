@@ -1,0 +1,74 @@
+body {
+    padding-top: 4.5rem;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 5rem 2rem;
+  }
+  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    background-color: bisque;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+  }
+  .container {
+    max-width: 1000px; 
+  } 
+  .footer {
+    position: relative;
+    background-color: #fefeff;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .footer-content p {
+    margin-bottom: 5px;
+  }
+  
+  .footer-content a {
+    display: block;
+    margin-top: 10px;
+  }
+  .carousel-item img {
+    height: 400px;
+    object-fit: cover; 
+}
+
+.profile {
+    margin-right: 20px;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+footer h6{
+  text-align: center;
+}
+footer{
+  margin-top: 150px;
+}
+#contatos h2{
+  text-align: center;
+}
